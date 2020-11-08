@@ -14,10 +14,11 @@ Tools we used to complete this request are:
 
 We started by reviewing the data we would use for our analysis, looking at data types and columns. We then used QBD to create the database ERD or Entity Relationhsip Diagram. Once our ERD was complete we used it to build our database using PgAdmin. We wrote PostgreSQL queries to create the tables that we would use to store our data, assigning Primary and foriegn Keys based on the structure outlined in our ERD. 
 
+![sample_code](https://github.com/austink24/Pewlett-Hackard-Analysis/blob/main/table_code_sample.png)
+
+After creating some 6 tables, we imported the employee data and sorted it to more specifically provid the information being requested. We used join command to combine the necessary data, then grouped it by department, and finished up by filtering out only the data needed to complete the request. The end results of joining and filtering the data in the tables is a few output files one (retiring_titles) listing the position titles and quantity of those positions that would need to be filled along with a file (mentorship_eligibilty) of employees that were identified as possible mentorship candidates that could possibly fill those future vacancies. 
 
 
-
-There is a bulleted list with four major points from the two analysis deliverables. (6 pt)
 
 ## Summary:
 
