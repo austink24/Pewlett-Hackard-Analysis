@@ -18,6 +18,7 @@ We started by reviewing the data we would use for our analysis, looking at data 
 
 After creating some 6 tables, we imported the employee data and sorted it to more specifically provid the information being requested. We used join command to combine the necessary data, then grouped it by department, and finished up by filtering out only the data needed to complete the request. The end results of joining and filtering the data in the tables is a few output files one (retiring_titles) listing the position titles and quantity of those positions that would need to be filled along with a file (mentorship_eligibilty) of employees that were identified as possible mentorship candidates that could possibly fill those future vacancies. 
 
+![retiring_sample](https://github.com/austink24/Pewlett-Hackard-Analysis/blob/main/retiring_title_sample.png)
 
 
 ## Summary:
