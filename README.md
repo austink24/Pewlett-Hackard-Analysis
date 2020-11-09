@@ -25,4 +25,9 @@ After creating some 6 tables, we imported the employee data and sorted it to mor
 
 With over 80,000 possible retiring employees and only 1550 ifentified for possible mentorship PH will need to do some heavy recruiting to assure they fill the vacancies created by those who are retiring. The Retiring titles lets us see the titles that we will need to fill. 
 
-contains two additional queries or tables that may provide more insight. (5 pt)
+Retiring Titles
+[Retiring_titles](https://github.com/austink24/Pewlett-Hackard-Analysis/blob/main/Data/retirement_titles.csv)
+
+Mentorship Canddidate:
+[Mentorship_list](https://github.com/austink24/Pewlett-Hackard-Analysis/blob/main/Data/mentorship_eligibilty.csv)
+
